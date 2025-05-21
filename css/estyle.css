@@ -1,0 +1,33 @@
+ul {
+    text-align: center;
+    padding: 14px;
+    background-color: red;
+    list-style: none;
+}
+li {
+    display: inline;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+}
+nav a:hover {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+}
+.justify {
+    text-align: justify;
+}
+section {
+    background-color: aqua;
+    border: 2px solid ;
+}
+main {
+    margin: 10px;
+}
+main img {
+    text-align: center;
+}
